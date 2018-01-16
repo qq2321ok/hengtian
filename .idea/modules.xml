@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authserver/authserver.iml" filepath="$PROJECT_DIR$/authserver/authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company/company.iml" filepath="$PROJECT_DIR$/company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hengtian.iml" filepath="$PROJECT_DIR$/hengtian.iml" />
+    </modules>
+  </component>
+</project>
